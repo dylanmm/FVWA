@@ -1,0 +1,6 @@
+== install ==
+sudo apt-get install php5 php5-sqlite
+
+== run ==
+cd fvwa
+php -S localhost:8000
